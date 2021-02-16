@@ -1,0 +1,15 @@
+{
+    "name": "com.arvrlab.unitydh-plugin.examples",
+    "references": [
+        "GUID:0c27fb6819c31824eb3cf67a3cc04a82"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
